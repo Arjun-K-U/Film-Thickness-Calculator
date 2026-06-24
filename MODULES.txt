@@ -7,14 +7,14 @@ pandas
 # For numerical operations and array handling
 numpy
 
-# For plotting graphs and creating interactive visualizations
+# For plotting graphs and embedding them in Tkinter
 matplotlib
 
-# For interpolation functions
+# For interpolation and differential evolution algorithms
 scipy
 
-# For showing progress bars during loops or long operations
-tqdm
+# For applying the modern dark theme to the Tkinter UI
+sv-ttk
 
 
 # All other modules used come inbuilt with python
